@@ -36,6 +36,3 @@ GET             | http://localhost:8080/transfers/{transferId}| Get transfer cor
 <p>http://localhost:8080/accounts/1</p>
 <p>http://localhost:8080/accounts/2</p>
 <p>http://localhost:8080/accounts/3</p>
-
-## Required
-Concurrency
