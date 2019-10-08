@@ -1,5 +1,7 @@
 # Money-transfer-RESTful-API
 
+A very basic monsey transfer API to showcase REST API development and concurrency testing.
+
 ## Technology
 |Tech stack|
 |-------|
